@@ -1,0 +1,1 @@
+ C:\\Users\\Plusb\\StudioProjects\\camera\\.dart_tool\\flutter_build\\2058e3836ba2bdf10ee820350f70eebb\\dart_build_result.json:  C:\\Users\\Plusb\\StudioProjects\\camera\\.dart_tool\\package_config.json C:\\Users\\Plusb\\StudioProjects\\camera\\pubspec.yaml C:\\flutter\\bin\\cache\\dart-sdk\\version c:\\users\\plusb\\studioprojects\\camera\\.dart_tool\\package_config.json
